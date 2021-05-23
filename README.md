@@ -13,19 +13,19 @@
 * [Contact](#Contacts)
 
  
-  ##Description
+  ## Description
 
 this is a react app designed to break up the apps components
 
 
-  ##Installation
+  ## Installation
 use npm install and import react
 
-  ##Usage
+  ## Usage
 
 use npm start to get it going
 
-  ##Contributions
+  ## Contributions
 
 if you want to contribute fork this and do a project pull
 
@@ -33,11 +33,11 @@ if you want to contribute fork this and do a project pull
 
 none
 
-  ##Credits
+  ## Credits
 
 
 
-  ##Contacts
+  ## Contacts
 
 github.com/colemilwee:
 
